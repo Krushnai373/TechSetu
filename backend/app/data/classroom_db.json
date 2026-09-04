@@ -1,0 +1,269 @@
+{
+  "messages": [
+    {
+      "id": "lec_1788522924464",
+      "speaker": "teacher",
+      "teacher_name": "Prof. Anand Munda",
+      "hindi_text": "कृपया अपनी किताब खोलिए।",
+      "santhali_script": "ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ᱾",
+      "phonetic": "Dayakate aamag potob jhij me.",
+      "subject": "General Science (Class 5)",
+      "timestamp": 1788522924.8068085,
+      "time_string": "05:25 pm"
+    },
+    {
+      "id": "lec_1788522994434",
+      "speaker": "teacher",
+      "teacher_name": "Prof. Anand Munda",
+      "hindi_text": "नमस्ते बच्चों, आज हम Class 5 (Section C) के लिए \"Math\" पढ़ेंगे।",
+      "santhali_script": "नमस्ते बच्चों, आज हम Class 5 (Section C) के लिए \"Math\" पढ़ेंगे।",
+      "phonetic": "",
+      "subject": "General Science (Class 5-C)",
+      "timestamp": 1788522994.7576163,
+      "time_string": "05:26 pm"
+    }
+  ],
+  "questions": [],
+  "lectures": [
+    {
+      "id": "lec_1788522994433_w9fe",
+      "grade": "Class 5",
+      "division": "C",
+      "target_class": "Class 5",
+      "section": "C",
+      "subject_id": "c5_math",
+      "subject_name": "General Science",
+      "name_en": "",
+      "santhali_subject": "ᱥᱟᱬᱮᱥ",
+      "icon": "📊",
+      "topic": "Math",
+      "teacher_name": "Prof. Anand Munda",
+      "date": "2026-09-04",
+      "start_time": "05:26 PM",
+      "end_time": "05:45 PM",
+      "time_slot": "05:26 PM - 05:45 PM",
+      "status": "live",
+      "attendees": [
+        {
+          "student_id": "stu_57_Class 5_C",
+          "name": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ (Roll 57)",
+          "roll_no": "57",
+          "grade": "Class 5",
+          "division": "C",
+          "join_time": "05:27 pm",
+          "leave_time": "05:30 PM",
+          "duration_seconds": 180,
+          "duration_minutes": 3.0,
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "id": "lec_c1_lang",
+      "grade": "Class 1",
+      "division": "A",
+      "subject_id": "c1_lang",
+      "subject_name": "संथाली भाषा एवं वर्णमाला",
+      "name_en": "Santhali Language & Ol Chiki",
+      "santhali_subject": "ᱥᱟᱱᱛᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱚᱞ ᱪᱤᱠᱤ",
+      "icon": "📖",
+      "topic": "ᱚᱞ ᱪᱤᱠᱤ ᱟᱠᱷᱚᱨ ᱩᱯᱨᱩᱢ (Introduction to Ol Chiki Letters)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "09:00 AM - 09:45 AM",
+      "status": "live",
+      "attendees": [
+        {
+          "student_id": "stu_01_c1",
+          "name": "ᱥᱩᱱᱤᱞ ᱢᱩᱨᱢᱩ (Sunil Murmu)",
+          "roll_no": "1",
+          "grade": "Class 1",
+          "division": "A",
+          "join_time": "09:05 AM",
+          "status": "Present"
+        },
+        {
+          "student_id": "stu_02_c1",
+          "name": "ᱨᱟᱹᱱᱤ ᱦᱟᱸᱥᱫᱟᱜ (Rani Hansda)",
+          "roll_no": "2",
+          "grade": "Class 1",
+          "division": "A",
+          "join_time": "09:07 AM",
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "id": "lec_c1_math",
+      "grade": "Class 1",
+      "division": "A",
+      "subject_id": "c1_math",
+      "subject_name": "बुनियादी गणित और गिनती (1-20)",
+      "name_en": "Basic Math & Numbers",
+      "santhali_subject": "ᱮᱞᱠᱷᱟ ᱟᱨ ᱞᱮᱠᱷᱟ (᱑-᱒᱐)",
+      "icon": "🔢",
+      "topic": "ᱢᱤᱫ ᱠᱷᱚᱱ ᱜᱮᱞ ᱞᱮᱠᱷᱟ (Numbers 1 to 10 with visuals)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "10:00 AM - 10:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c2_lang",
+      "grade": "Class 2",
+      "division": "A",
+      "subject_id": "c2_lang",
+      "subject_name": "भाषा एवं लोककथाएं",
+      "name_en": "Language & Folktales",
+      "santhali_subject": "ᱥᱟᱱᱛᱟᱲᱤ ᱠᱟᱹᱦᱱᱤ ᱟᱨ ᱯᱟᱹᱨᱥᱤ",
+      "icon": "📚",
+      "topic": "ᱪᱮᱬᱮ ᱟᱨ ᱦᱟᱹᱛᱤ ᱠᱟᱹᱦᱱᱤ (The Bird and Elephant Story)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "09:00 AM - 09:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c2_math",
+      "grade": "Class 2",
+      "division": "A",
+      "subject_id": "c2_math",
+      "subject_name": "गणित: जोड़ और घटाव",
+      "name_en": "Math: Addition & Subtraction",
+      "santhali_subject": "ᱮᱞᱠᱷᱟ: ᱢᱮᱥᱟ ᱟᱨ ᱵᱷᱮᱜᱟᱨ",
+      "icon": "📐",
+      "topic": "ᱵᱟᱨ ᱮᱞᱠᱷᱟ ᱢᱮᱥᱟ (Two Digit Addition)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "10:00 AM - 10:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c3_sci",
+      "grade": "Class 3",
+      "division": "A",
+      "subject_id": "c3_sci",
+      "subject_name": "सामान्य विज्ञान: पौधे एवं प्रकाश संश्लेषण",
+      "name_en": "Science: Plants & Photosynthesis",
+      "santhali_subject": "ᱥᱟᱬᱮᱥ: ᱫᱟᱨᱮ ᱟᱨ ᱡᱚᱢᱟᱜ ᱵᱮᱱᱟᱣ",
+      "icon": "🔬",
+      "topic": "ᱫᱟᱨᱮ ᱠᱚ ᱪᱮᱫ ᱞᱮᱠᱟ ᱡᱚᱢᱟᱜ ᱠᱚ ᱵᱮᱱᱟᱣᱟ? (How Plants Make Food)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "09:00 AM - 09:45 AM",
+      "status": "live",
+      "attendees": [
+        {
+          "student_id": "stu_14_Class3_A",
+          "name": "ᱵᱤᱨᱥᱟ ᱥᱚᱨᱮᱱ (Birsa Soren)",
+          "roll_no": "14",
+          "grade": "Class 3",
+          "division": "A",
+          "join_time": "09:02 AM",
+          "status": "Present"
+        },
+        {
+          "student_id": "stu_05_c3",
+          "name": "ᱥᱟᱹᱱᱛᱤ ᱴᱩᱰᱩ (Shanti Tudu)",
+          "roll_no": "5",
+          "grade": "Class 3",
+          "division": "A",
+          "join_time": "09:06 AM",
+          "status": "Present"
+        },
+        {
+          "student_id": "stu_09_c3",
+          "name": "ᱢᱟᱞᱚᱛᱤ ᱢᱩᱨᱢᱩ (Malati Murmu)",
+          "roll_no": "9",
+          "grade": "Class 3",
+          "division": "A",
+          "join_time": "09:10 AM",
+          "status": "Present"
+        }
+      ]
+    },
+    {
+      "id": "lec_c3_math",
+      "grade": "Class 3",
+      "division": "A",
+      "subject_id": "c3_math",
+      "subject_name": "गणित: पहाड़े और गुणन",
+      "name_en": "Math: Multiplication & Tables",
+      "santhali_subject": "ᱮᱞᱠᱷᱟ: ᱜᱩᱬᱟᱹᱣ ᱟᱨ ᱞᱮᱠᱷᱟ",
+      "icon": "🧮",
+      "topic": "ᱯᱮ ᱟᱨ ᱯᱳᱱ ᱨᱮᱱᱟᱜ ᱜᱩᱬᱟᱹᱣ (Tables of 3 and 4)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "10:00 AM - 10:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c3_soc",
+      "grade": "Class 3",
+      "division": "A",
+      "subject_id": "c3_soc",
+      "subject_name": "झारखंड संस्कृति व हमारा समाज",
+      "name_en": "Social Studies & Tribal Culture",
+      "santhali_subject": "ᱥᱟᱶᱛᱟ ᱥᱟᱬᱮᱥ ᱟᱨ ᱦᱮᱨᱤᱴᱮᱡᱽ",
+      "icon": "🏛️",
+      "topic": "ᱵᱤᱨᱥᱟ ᱢᱩᱱᱰᱟ ᱟᱨ ᱥᱟᱨᱦᱩᱞ ᱯᱟᱨᱵᱚ (Birsa Munda & Sarhul Festival)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "11:00 AM - 11:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c4_evs",
+      "grade": "Class 4",
+      "division": "A",
+      "subject_id": "c4_evs",
+      "subject_name": "पर्यावरण विज्ञान: जल व वन संरक्षण",
+      "name_en": "EVS: Water & Forest Conservation",
+      "santhali_subject": "ᱯᱚᱨᱤᱵᱮᱥ ᱥᱟᱬᱮᱥ: ᱫᱟᱜ ᱟᱨ ᱵᱤᱨ ᱵᱟᱧᱪᱟᱣ",
+      "icon": "🌍",
+      "topic": "ᱡᱟᱞ ᱜᱮ ᱡᱤᱣᱤ ᱠᱟᱱᱟ (Water Conservation in Jharkhand)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "09:00 AM - 09:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c4_math",
+      "grade": "Class 4",
+      "division": "A",
+      "subject_id": "c4_math",
+      "subject_name": "गणित: भाग एवं ज्यामितीय आकृतियाँ",
+      "name_en": "Math: Division & Shapes",
+      "santhali_subject": "ᱮᱞᱠᱷᱟ: ᱦᱟᱹᱴᱤᱧ ᱟᱨ ᱨᱩᱯ",
+      "icon": "📐",
+      "topic": "ᱦᱟᱹᱴᱤᱧ ᱟᱨ ᱯᱮᱠᱳᱬ (Division and Triangles)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "10:00 AM - 10:45 AM",
+      "status": "scheduled",
+      "attendees": []
+    },
+    {
+      "id": "lec_c5_sci",
+      "grade": "Class 5",
+      "division": "A",
+      "subject_id": "c5_sci",
+      "subject_name": "सामान्य विज्ञान: मानव शरीर व स्वास्थ्य",
+      "name_en": "Science: Human Body & Health",
+      "santhali_subject": "ᱥᱟᱬᱮᱥ: ᱦᱚᱲᱢᱚ ᱟᱨ ᱦᱚᱲᱢᱚ ᱱᱟᱯᱟᱭ",
+      "icon": "🧬",
+      "topic": "ᱦᱚᱲᱢᱚ ᱨᱮᱱᱟᱜ ᱢᱩᱬ ᱚᱝᱜᱚ (Major Organ Systems of Body)",
+      "teacher_name": "Prof. Anand Munda",
+      "time_slot": "09:00 AM - 09:45 AM",
+      "status": "live",
+      "attendees": [
+        {
+          "student_id": "stu_01_c5",
+          "name": "ᱚᱨᱡᱩᱱ ᱦᱮᱢᱵᱽᱨᱚᱢ (Arjun Hembrom)",
+          "roll_no": "1",
+          "grade": "Class 5",
+          "division": "A",
+          "join_time": "09:01 AM",
+          "status": "Present"
+        }
+      ]
+    }
+  ]
+}

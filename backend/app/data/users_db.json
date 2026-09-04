@@ -1,0 +1,115 @@
+{
+  "students": [
+    {
+      "id": "stu_14_Class3_A",
+      "role": "student",
+      "name": "ᱵᱤᱨᱥᱟ ᱥᱚᱨᱮᱱ (Birsa Soren)",
+      "roll_no": "14",
+      "grade": "Class 3",
+      "division": "A",
+      "school": "ᱩᱛᱠᱨᱚᱢᱤᱛ ᱯᱨᱟᱛᱷᱚᱢᱤᱠ ᱵᱤᱫᱽᱭᱟᱞᱚᱭ, ᱫᱩᱢᱠᱟ",
+      "language": "santhali",
+      "pin": "1234",
+      "stars": 45,
+      "streak_days": 4,
+      "created_at": 1788497006.9769406
+    },
+    {
+      "id": "stu_01_Class1_A",
+      "role": "student",
+      "name": "ᱥᱩᱱᱤᱞ ᱢᱩᱨᱢᱩ (Sunil Murmu)",
+      "roll_no": "1",
+      "grade": "Class 1",
+      "division": "A",
+      "school": "Govt. Primary School, Dumka",
+      "language": "santhali",
+      "pin": "1234",
+      "stars": 30,
+      "streak_days": 2,
+      "created_at": 1788497006.9769442
+    },
+    {
+      "id": "stu_56_Class3_A",
+      "role": "student",
+      "name": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ (Roll 56)",
+      "roll_no": "56",
+      "grade": "Class 3",
+      "division": "A",
+      "school": "Govt. Primary School",
+      "language": "santhali",
+      "pin": "1234",
+      "stars": 30,
+      "streak_days": 1,
+      "created_at": 1788497832.7888632
+    },
+    {
+      "id": "stu_78_Class5_C",
+      "role": "student",
+      "name": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ (Roll 78)",
+      "roll_no": "78",
+      "grade": "Class 5",
+      "division": "C",
+      "school": "Govt. Primary School",
+      "language": "santhali",
+      "pin": "456",
+      "stars": 30,
+      "streak_days": 1,
+      "created_at": 1788500879.626214
+    },
+    {
+      "id": "stu_34_Class5_C",
+      "role": "student",
+      "name": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ (Roll 34)",
+      "roll_no": "34",
+      "grade": "Class 5",
+      "division": "C",
+      "school": "Govt. Primary School",
+      "language": "santhali",
+      "pin": "495",
+      "stars": 30,
+      "streak_days": 1,
+      "created_at": 1788501152.2126958
+    },
+    {
+      "id": "stu_-35_Class5_C",
+      "role": "student",
+      "name": "Krushnai BOrse",
+      "roll_no": "-35",
+      "grade": "Class 5",
+      "division": "C",
+      "school": "ᱩᱛᱠᱨᱚᱢᱤᱛ ᱯᱨᱟᱛᱷᱚᱢᱤᱠ ᱵᱤᱫᱽᱭᱟᱞᱚᱭ, ᱫᱩᱢᱠᱟ",
+      "language": "santhali",
+      "pin": "47585",
+      "stars": 30,
+      "streak_days": 1,
+      "created_at": 1788522499.7567782
+    },
+    {
+      "id": "stu_57_Class5_C",
+      "role": "student",
+      "name": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ (Roll 57)",
+      "roll_no": "57",
+      "grade": "Class 5",
+      "division": "C",
+      "school": "Govt. Primary School",
+      "language": "santhali",
+      "pin": "577",
+      "stars": 30,
+      "streak_days": 1,
+      "created_at": 1788523059.3803113
+    }
+  ],
+  "teachers": [
+    {
+      "id": "tch_anand",
+      "role": "teacher",
+      "name": "Prof. Anand Munda",
+      "teacher_id": "teacher@jharkhand.edu",
+      "school": "Govt. Middle School, Ranchi",
+      "subject": "Science & Mathematics",
+      "preferred_lang": "english",
+      "password": "demo",
+      "created_at": 1788497006.97695
+    }
+  ]
+}

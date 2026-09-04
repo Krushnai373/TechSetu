@@ -1,0 +1,127 @@
+{
+  "curriculum_version": "NIPUN_BHARAT_FLN_2026",
+  "program": "Jharkhand PALASH MTB-MLE",
+  "grades": [
+    {
+      "grade_id": "balvatika",
+      "grade_title": "Balvatika (Pre-Primary / बालवाटिका)",
+      "target_age": "5-6 Years",
+      "domains": [
+        {
+          "domain_id": "fl_1",
+          "domain_name": "Foundational Literacy (मौखिक भाषा विकास)",
+          "competency": "चित्र वर्णन एवं ध्वनि पहचान (Picture Description & Sound Recognition)",
+          "nipun_code": "FLN-L1-01",
+          "topics": [
+            {
+              "topic_id": "topic_b1",
+              "title": "हमारा परिवेश और प्रकृति (Our Nature & Surroundings)",
+              "hindi_summary": "स्थानीय वनस्पतियों (पलाश, साल) और वन्यजीवों को मातृभाषा में पहचानना।",
+              "santhali_title": "ᱟᱵᱚᱣᱟᱜ ᱯᱚᱨᱤᱵᱮᱥ ᱟᱨ ᱥᱤᱨᱡᱚᱱ",
+              "santhali_summary": "ᱫᱟᱨᱮ, ᱵᱟᱦᱟ, ᱪᱮᱬᱮ ᱠᱚ ᱥᱟᱱᱛᱟᱲᱤ ᱛᱮ ᱩᱯᱨᱩᱢ᱾",
+              "teacher_guide": "बच्चों को पलाश और साल के पेड़ों का चित्र दिखाकर मातृभाषा में उनके नाम पूछें।",
+              "activity": "पलाश का पत्ता छूकर पहचानना और 'बाहा' व 'दारे' ध्वनि का उच्चारण करना।",
+              "assessment": "क्या बच्चा कम से कम 3 स्थानीय पेड़ों/पक्षियों के नाम संथाली/हो/मुंडारी में बता पाता है?"
+            },
+            {
+              "topic_id": "topic_b2",
+              "title": "शरीर के अंग और स्वच्छता (Body Parts & Hygiene)",
+              "hindi_summary": "हाथ, पैर, आँख, कान को मातृभाषा में जानना।",
+              "santhali_title": "ᱦᱚᱲᱢᱚ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱚ",
+              "santhali_summary": "ᱛᱤ, ᱡᱟᱝᱜᱟ, ᱢᱮᱫ, ᱞᱩᱛᱩᱨ ᱩᱯᱨᱩᱢ᱾",
+              "teacher_guide": "'हाथ ऊपर करो' (Ti chetan rakab me) बोलकर शारीरिक क्रिया करवाएं।",
+              "activity": "गीत गाते हुए अंगों को छूने का खेल खेलना।",
+              "assessment": "निर्देश सुनने पर सही अंग की ओर इशारा करना।"
+            }
+          ]
+        },
+        {
+          "domain_id": "fn_1",
+          "domain_name": "Foundational Numeracy (संख्या ज्ञान 1 से 10)",
+          "competency": "गिनती और वस्तु मिलान (Counting & Object Matching 1-10)",
+          "nipun_code": "FLN-N1-01",
+          "topics": [
+            {
+              "topic_id": "topic_bn1",
+              "title": "संख्या 1 से 5 की पहचान (Numbers 1 to 5)",
+              "hindi_summary": "महुआ के बीज और पत्तों से 1 से 5 तक गिनना।",
+              "santhali_title": "ᱢᱤᱫ ᱠᱷᱚᱱ ᱢᱚᱬᱮ ᱞᱮᱠᱷᱟ",
+              "santhali_summary": "ᱢᱤᱫ (1), ᱵᱟᱨ (2), ᱯᱮ (3), ᱯᱳᱱ (4), ᱢᱚᱬᱮ (5) ᱞᱮᱠᱷᱟ ᱪᱮᱫᱚᱜ᱾",
+              "teacher_guide": "कक्षा में महुआ बीज या कंकड़ की सहायता से समूह बनाकर संथाली/हो/मुंडारी में गिनवाएं।",
+              "activity": "3 कंकड़ उठाकर 'ᱯᱮ' (Pe) बोलना।",
+              "assessment": "दी गई संख्या में सही मात्रा में वस्तुएं अलग करना।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade_id": "grade_1",
+      "grade_title": "Grade 1 (कक्षा 1)",
+      "target_age": "6-7 Years",
+      "domains": [
+        {
+          "domain_id": "fl_2",
+          "domain_name": "Foundational Literacy (वर्ण एवं शब्द ज्ञान)",
+          "competency": "अक्षर पहचान और सरल शब्द पठन (Letter & Simple Word Blending)",
+          "nipun_code": "FLN-L2-02",
+          "topics": [
+            {
+              "topic_id": "topic_g1_1",
+              "title": "सरल दो-अक्षरीय शब्द (Two Letter Words)",
+              "hindi_summary": "घर (ओड़ाग), पानी (दाग), फूल (बाहा) शब्दों का सम्मिश्रण।",
+              "santhali_title": "ᱵᱟᱨ ᱟᱠᱷᱚᱨ ᱟᱹᱲᱟᱹ",
+              "santhali_summary": "ᱚᱲᱟᱜ (Orag), ᱫᱟᱜ (Daag), ᱵᱟᱦᱟ (Baha) ᱯᱟᱲᱦᱟᱣ᱾",
+              "teacher_guide": "ओल चिकी लिपि और देवनागरी में फ्लैशकार्ड दिखाकर जोर से उच्चारण कराएं।",
+              "activity": "चित्र देखकर सही शब्द से मिलान करने वाली वर्कशीट हल करना।",
+              "assessment": "चित्र देखकर संथाली में शब्द बोलना और पढ़ना।"
+            }
+          ]
+        },
+        {
+          "domain_id": "fn_2",
+          "domain_name": "Foundational Numeracy (जोड़-घटाव की समझ)",
+          "competency": "सरल जोड़ (1-digit Addition with Concrete Objects)",
+          "nipun_code": "FLN-N2-02",
+          "topics": [
+            {
+              "topic_id": "topic_g1_n1",
+              "title": "स्थानीय वस्तुओं से जोड़ (Addition with Native Objects)",
+              "hindi_summary": "2 साल के पत्ते + 1 साल का पत्ता = 3 पत्ते (Bar + Mid = Pe).",
+              "santhali_title": "ᱫᱟᱨᱮ ᱥᱟᱠᱟᱢ ᱛᱮ ᱡᱚᱲᱟᱣ",
+              "santhali_summary": "ᱵᱟᱨ (2) + ᱢᱤᱫ (1) = ᱯᱮ (3) ᱥᱟᱠᱟᱢ᱾",
+              "teacher_guide": "बच्चों को वास्तविक पत्ते देकर जोड़ की अवधारणा समझाएं।",
+              "activity": "जोड़ की सचित्र वर्कशीट में कुल वस्तुएं गिनना।",
+              "assessment": "10 तक के सरल जोड़ बिना गलती के हल करना।"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "grade_id": "grade_2",
+      "grade_title": "Grade 2 (कक्षा 2)",
+      "target_age": "7-8 Years",
+      "domains": [
+        {
+          "domain_id": "fl_3",
+          "domain_name": "Fluency & Comprehension (पठन प्रवाह एवं बोध)",
+          "competency": "लघु कथा वाचन (Short Story Reading with Meaning)",
+          "nipun_code": "FLN-L3-03",
+          "topics": [
+            {
+              "topic_id": "topic_g2_1",
+              "title": "झारखंड की लोककथा: बिरसा और जंगल (Folk Tale: Birsa & The Forest)",
+              "hindi_summary": "जंगल की रक्षा और पशु-पक्षियों के प्रति प्रेम की प्रेरक कहानी।",
+              "santhali_title": "ᱵᱤᱨ ᱟᱨ ᱡᱤᱣᱤ ᱡᱤᱭᱟᱹᱞᱤ ᱠᱚᱣᱟᱜ ᱠᱟᱹᱦᱱᱤ",
+              "santhali_summary": "ᱵᱤᱨᱥᱟ ᱟᱨ ᱵᱤᱨ ᱨᱮᱱ ᱪᱮᱬᱮ ᱠᱚᱣᱟᱜ ᱥᱩᱞᱩᱠ ᱠᱟᱹᱦᱱᱤ᱾",
+              "teacher_guide": "कहानी का वाचन संथाली ऑडियो के साथ कराएं और बच्चों से प्रश्न पूछें।",
+              "activity": "कहानी के पात्रों का अभिनय (Role Play) करना।",
+              "assessment": "कहानी के मुख्य संदेश को अपने शब्दों में व्यक्त करना।"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

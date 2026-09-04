@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Sans+Ol+Chiki:wght@400;500;600;700&family=Yatra+One&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+:root {
+  --palash-crimson: #E03E1A;
+  --palash-orange: #FF6F00;
+  --palash-gold: #F59E0B;
+  --forest-green: #1B5E20;
+  --forest-emerald: #059669;
+  --tribal-earth: #78350F;
+  --tribal-slate: #0F172A;
+}
+
+body {
+  font-family: 'Outfit', 'Inter', system-ui, sans-serif;
+  background-color: #0c1222;
+  color: #f8fafc;
+  min-height: 100vh;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+/* Ol Chiki and Warang Citi Native Font Class */
+.font-olchiki {
+  font-family: 'Noto Sans Ol Chiki', 'Outfit', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+.font-tribal-title {
+  font-family: 'Yatra One', 'Outfit', cursive, sans-serif;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E03E1A;
+}
+
+/* Glassmorphism Styles */
+.glass-panel {
+  background: rgba(17, 24, 39, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-panel-light {
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.glass-card {
+  background: rgba(30, 41, 59, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(245, 158, 11, 0.35);
+  box-shadow: 0 12px 24px -6px rgba(0, 0, 0, 0.4), 0 0 15px rgba(224, 62, 26, 0.15);
+}
+
+/* Radiant Gradients */
+.gradient-palash {
+  background: linear-gradient(135deg, #FF6F00 0%, #E03E1A 50%, #B91C1C 100%);
+}
+
+.gradient-forest {
+  background: linear-gradient(135deg, #10B981 0%, #059669 50%, #047857 100%);
+}
+
+.gradient-tribal-glow {
+  background: linear-gradient(135deg, #F59E0B 0%, #EA580C 50%, #991B1B 100%);
+}
+
+/* Animated Speech Pulse */
+@keyframes voice-pulse {
+  0% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.15); opacity: 0.4; }
+  100% { transform: scale(1); opacity: 0.8; }
+}
+
+.animate-voice-pulse {
+  animation: voice-pulse 2s infinite ease-in-out;
+}
+
+/* Floating Kid-Friendly Animation */
+@keyframes float-subtle {
+  0%, 100% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-8px) rotate(1deg); }
+}
+
+.animate-float {
+  animation: float-subtle 4s ease-in-out infinite;
+}
+
+/* Shimmer Highlight */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.shimmer-text {
+  background: linear-gradient(90deg, #F59E0B 0%, #FFFFFF 50%, #F59E0B 100%);
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: shimmer 3s linear infinite;
+}
+
+/* Print Styles for Crisp Bilingual Worksheets */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .worksheet-sheet {
+    border: 2px solid #333 !important;
+    box-shadow: none !important;
+    background: white !important;
+    color: black !important;
+    page-break-after: always;
+  }
+}

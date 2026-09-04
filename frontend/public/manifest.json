@@ -1,0 +1,17 @@
+{
+  "name": "TechSetu - PALASH MTB-MLE Vernacular Pedagogy Suite",
+  "short_name": "PALASH AI",
+  "description": "AI-Powered Vernacular Pedagogy and Real-Time Tribal Translation Tool for Mother Tongue-Based Primary Education in Jharkhand (Santhali, Ho, Mundari)",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c1222",
+  "theme_color": "#E03E1A",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌺</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
